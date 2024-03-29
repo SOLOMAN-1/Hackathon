@@ -57,5 +57,3 @@ wb.save(excel_file_path)
 
 print(f"Author names saved to {excel_file_path}")
 
-
-author
